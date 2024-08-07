@@ -1,0 +1,6 @@
+2024-08-07 03:56:53,518 ERROR:Exception occurred while extracting metadata from /Users/oluwabukolatina/Documents/sample_5184×3456.jpeg: [Errno 2] No such file or directory: '/usr/bin/exiftool'
+2024-08-07 03:56:53,521 ERROR:Exception occurred while extracting metadata from /Users/oluwabukolatina/Documents/SamplePNGImage_1mbmb.png: [Errno 2] No such file or directory: '/usr/bin/exiftool'
+2024-08-07 03:56:53,523 ERROR:Exception occurred while extracting metadata from /Users/oluwabukolatina/Documents/SampleJPGImage_1mbmb.jpg: [Errno 2] No such file or directory: '/usr/bin/exiftool'
+2024-08-07 04:15:36,535 ERROR:Exception occurred while extracting metadata from /Users/oluwabukolatina/Documents/sample_5184×3456.jpeg: name 'file_path' is not defined
+2024-08-07 04:15:36,674 ERROR:Exception occurred while extracting metadata from /Users/oluwabukolatina/Documents/SamplePNGImage_1mbmb.png: name 'file_path' is not defined
+2024-08-07 04:15:36,881 ERROR:Exception occurred while extracting metadata from /Users/oluwabukolatina/Documents/SampleJPGImage_1mbmb.jpg: name 'file_path' is not defined
